@@ -1,4 +1,4 @@
-# Oscar Stoies & LORA
+# Oscar Stories & LORA
 
 ## Oscar Stories
 
